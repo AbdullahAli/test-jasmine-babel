@@ -1,7 +1,6 @@
 # test-jasmine-babel
 
-> Test project which use Babel.js as ES6 compiler to write unit tests
-
+request some json, process it, count some stuff and write it to a file using es6 and promises.
 ## Setup
 
 ```
